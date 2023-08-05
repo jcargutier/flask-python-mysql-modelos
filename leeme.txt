@@ -6,7 +6,10 @@ flask-marshmallow
 marshmallow-sqlalchemy 
 pymysql
 python-dotenv
+cryptography
 
 Aplicación desplegada en vercel
 
 https://flask-python-mysql-modelos.vercel.app/
+y
+https://flask-python-mysql-modelos-oyjy.vercel.app/
